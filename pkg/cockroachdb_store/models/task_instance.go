@@ -2,8 +2,8 @@ package models
 
 import (
 	"encoding/json"
-	"github.com/catalystsquad/app-utils-go/logging"
-	"github.com/catalystsquad/go-scheduler/pkg"
+	"github.com/catalystcommunity/app-utils-go/logging"
+	"github.com/catalystcommunity/go-scheduler/pkg"
 	"github.com/google/uuid"
 	"github.com/sirupsen/logrus"
 	"gorm.io/gorm"

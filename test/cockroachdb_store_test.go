@@ -2,9 +2,9 @@ package test
 
 import (
 	"fmt"
-	"github.com/catalystsquad/app-utils-go/logging"
-	"github.com/catalystsquad/go-scheduler/pkg"
-	"github.com/catalystsquad/go-scheduler/pkg/cockroachdb_store"
+	"github.com/catalystcommunity/app-utils-go/logging"
+	"github.com/catalystcommunity/go-scheduler/pkg"
+	"github.com/catalystcommunity/go-scheduler/pkg/cockroachdb_store"
 	"github.com/google/uuid"
 	"github.com/orlangure/gnomock"
 	"github.com/orlangure/gnomock/preset/cockroachdb"

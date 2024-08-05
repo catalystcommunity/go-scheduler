@@ -2,7 +2,7 @@ package models
 
 import (
 	"encoding/json"
-	"github.com/catalystsquad/go-scheduler/pkg"
+	"github.com/catalystcommunity/go-scheduler/pkg"
 	"github.com/google/uuid"
 	"time"
 )

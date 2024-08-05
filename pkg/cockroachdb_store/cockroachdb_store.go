@@ -6,9 +6,9 @@ import (
 	"embed"
 	"time"
 
-	"github.com/catalystsquad/app-utils-go/logging"
-	"github.com/catalystsquad/go-scheduler/pkg"
-	"github.com/catalystsquad/go-scheduler/pkg/cockroachdb_store/models"
+	"github.com/catalystcommunity/app-utils-go/logging"
+	"github.com/catalystcommunity/go-scheduler/pkg"
+	"github.com/catalystcommunity/go-scheduler/pkg/cockroachdb_store/models"
 	"github.com/cockroachdb/cockroach-go/v2/crdb/crdbgorm"
 	"github.com/google/uuid"
 	"github.com/pressly/goose/v3"

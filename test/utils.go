@@ -2,7 +2,7 @@ package test
 
 import (
 	"github.com/brianvoe/gofakeit/v6"
-	"github.com/catalystsquad/go-scheduler/pkg"
+	"github.com/catalystcommunity/go-scheduler/pkg"
 	"github.com/google/uuid"
 	"time"
 )

@@ -1,7 +1,7 @@
 package pkg
 
 import (
-	"github.com/catalystsquad/app-utils-go/logging"
+	"github.com/catalystcommunity/app-utils-go/logging"
 	"github.com/google/uuid"
 	"github.com/joomcode/errorx"
 	"github.com/sirupsen/logrus"
