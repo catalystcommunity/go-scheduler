@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/catalystcommunity/go-scheduler/compare/v1.1.0...v1.1.1) (2024-11-07)
+
+
+### Bug Fixes
+
+* move to catalystcommunity ([5fce634](https://github.com/catalystcommunity/go-scheduler/commit/5fce6343d953579f5bbe65b8b61393a98767333f))
+* update catalystcommunity dependency version ([#20](https://github.com/catalystcommunity/go-scheduler/issues/20)) ([6b0a1a1](https://github.com/catalystcommunity/go-scheduler/commit/6b0a1a1aac63b4cf58b196b47e2e0cc00c21a25c))
+
 # [1.1.0](https://github.com/catalystcommunity/go-scheduler/compare/v1.0.4...v1.1.0) (2023-05-24)
 
 
