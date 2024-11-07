@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/brianvoe/gofakeit/v6 v6.21.0
-	github.com/catalystcommunity/app-utils-go v1.0.7
+	github.com/catalystcommunity/app-utils-go v1.0.9
 	github.com/cockroachdb/cockroach-go/v2 v2.3.3
 	github.com/dariubs/gorm-jsonb v0.1.5
 	github.com/google/uuid v1.3.0
