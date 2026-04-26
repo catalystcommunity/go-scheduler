@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/catalystsquad/go-scheduler/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/catalystcommunity/go-scheduler/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/catalystsquad/go-scheduler">
+  <a href="https://github.com/catalystcommunity/go-scheduler">
     <img src="logo.png" alt="Logo">
   </a>
 
@@ -35,12 +35,12 @@
   <p align="center">
     A go task scheduler / runner library with various backends and triggers
     <br />
-    <a href="https://github.com/catalystsquad/go-scheduler"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/catalystcommunity/go-scheduler"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/catalystsquad/go-scheduler/issues">Report Bug</a>
+    <a href="https://github.com/catalystcommunity/go-scheduler/issues">Report Bug</a>
     ·
-    <a href="https://github.com/catalystsquad/go-scheduler/issues">Request Feature</a>
+    <a href="https://github.com/catalystcommunity/go-scheduler/issues">Request Feature</a>
   </p>
 </div>
 
@@ -166,7 +166,7 @@ There are no prerequisites, it's an importable go library. If you're using a bac
 
 ### Installation
 
-`go get github.com/catalystsquad/go-scheduler`
+`go get github.com/catalystcommunity/go-scheduler`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,7 +176,7 @@ There are no prerequisites, it's an importable go library. If you're using a bac
 - [ ] Add Cockroachdb backend support
 - [ ] Add Natural language trigger
 
-See the [open issues](https://github.com/catalystsquad/go-scheduler/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/catalystcommunity/go-scheduler/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,16 +205,16 @@ Distributed under the APACHE 2.0 License. See `LICENSE.txt` for more information
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/catalystsquad/go-scheduler.svg?style=for-the-badge
-[contributors-url]: https://github.com/catalystsquad/go-scheduler/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/catalystsquad/go-scheduler.svg?style=for-the-badge
-[forks-url]: https://github.com/catalystsquad/go-scheduler/network/members
-[stars-shield]: https://img.shields.io/github/stars/catalystsquad/go-scheduler.svg?style=for-the-badge
-[stars-url]: https://github.com/catalystsquad/go-scheduler/stargazers
-[issues-shield]: https://img.shields.io/github/issues/catalystsquad/go-scheduler.svg?style=for-the-badge
-[issues-url]: https://github.com/catalystsquad/go-scheduler/issues
-[license-shield]: https://img.shields.io/github/license/catalystsquad/go-scheduler.svg?style=for-the-badge
-[license-url]: https://github.com/catalystsquad/go-scheduler/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/catalystcommunity/go-scheduler.svg?style=for-the-badge
+[contributors-url]: https://github.com/catalystcommunity/go-scheduler/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/catalystcommunity/go-scheduler.svg?style=for-the-badge
+[forks-url]: https://github.com/catalystcommunity/go-scheduler/network/members
+[stars-shield]: https://img.shields.io/github/stars/catalystcommunity/go-scheduler.svg?style=for-the-badge
+[stars-url]: https://github.com/catalystcommunity/go-scheduler/stargazers
+[issues-shield]: https://img.shields.io/github/issues/catalystcommunity/go-scheduler.svg?style=for-the-badge
+[issues-url]: https://github.com/catalystcommunity/go-scheduler/issues
+[license-shield]: https://img.shields.io/github/license/catalystcommunity/go-scheduler.svg?style=for-the-badge
+[license-url]: https://github.com/catalystcommunity/go-scheduler/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
